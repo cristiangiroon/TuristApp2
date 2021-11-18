@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TuristApp</string>
+    <string name="inicio">Inicio</string>
+    <string name="destinos">Destinos</string>
+    <string name="ajustes">Ajustes</string>
+
+    <string name="place_image">Place</string>
+    <string name="place_name">Destino</string>
+    <string name="place_score">Calificación</string>
+    <string name="place_description">Descripción</string>
+</resources>
